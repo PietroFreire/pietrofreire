@@ -4,7 +4,7 @@
 📍 Living in São Paulo, Brazil.
 
 ### What I'm working on 👨‍💻
-📱 Building a movie suggestion website... <a href="https://github.com/PFreire98/Your-Movie" target="_blank">Click here!</a>
+📱 Building a movie suggestion website... <a href="https://github.com/PFreire98/Your-Movies" target="_blank">Click here!</a>
 
 ### 📚 Books that help me a lot! ↴
   <a href="https://amz.run/3Qgp"  target="_blank">The Power of Habit</a>
